@@ -11,3 +11,4 @@ npm run dev     # http://localhost:3000
   Replace the URLs there (or use files from `public/`) with your own photo and screenshots.
 - **Content:** `lib/data.ts` holds services, projects and contact details.
 - **Resume:** replace `public/Adhi_Narayanan_P_Resume.pdf`.
+# CI/CD improvements
