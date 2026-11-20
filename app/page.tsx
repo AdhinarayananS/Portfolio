@@ -10,9 +10,9 @@ export default function Home() {
 
   return (
     <main style={{ background: "#0C0C0C", overflowX: "clip" }}>
-      <p style={{ color: "white", textAlign: "center" }}>
+      {/* <p style={{ color: "white", textAlign: "center" }}>
         {siteName}
-      </p>
+      </p> */}
 
       <HeroSection />
       <MarqueeSection />
